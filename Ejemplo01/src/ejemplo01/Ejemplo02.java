@@ -12,8 +12,8 @@ package ejemplo01;
 public class Ejemplo02 {
     public static void main(String[] args) {
         // Ejemplo 
-        String nombreEstudiante = "René Rolando";
-        String apellidoEstudiante = "Elizalde Solano";
+        String nombreEstudiante = "Francisco Javier";
+        String apellidoEstudiante = "Estrada Cuenca";
                 
         System.out.println(nombreEstudiante+apellidoEstudiante);
         System.out.println(nombreEstudiante+" "+apellidoEstudiante);
